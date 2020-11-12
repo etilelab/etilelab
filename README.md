@@ -1,5 +1,6 @@
 ### 👋 반갑습니다! 가치있는 소프트웨어 개발과 연구를 꿈꾸는 이태경 입니다!
-문의사항은 블로그 http://blog.naver.com/luckperson7 또는 이메일 taegyeong7202@gmail.com 으로 부탁드립니다 
+문의사항은 [블로그](http://blog.naver.com/luckperson7) 또는 이메일 taegyeong7202@gmail.com 으로 부탁드립니다.
+관심분야 : 영상처리, 알고리즘 트레이딩
 
 - <b>부경대학교 공학연구원 인공지능연구소 (2020.10 - Present)</b>
   - 영상처리 및 머신러닝을 이용한 얼굴 변형
